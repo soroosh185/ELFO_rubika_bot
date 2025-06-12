@@ -118,14 +118,14 @@
 
 ### مراحل نصب
 
-```bash
-git clone https://github.com/soroosh185/ELFO_rubika_bot.git
-cd ELFO_rubika_bot
 
-pip install -r requirements.txt
+```git clone https://github.com/soroosh185/ELFO_rubika_bot.git```
+```cd ELFO_rubika_bot```
+
+```pip install -r requirements.txt```
 
 # اجرای ربات
-python ELFO.py```
+```python ELFO.py```
 
 ---
 
